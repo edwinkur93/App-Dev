@@ -1,0 +1,11 @@
+C:\Users\edwin\source\repos\week4\week4\bin\Debug\week4.exe.config
+C:\Users\edwin\source\repos\week4\week4\bin\Debug\week4.exe
+C:\Users\edwin\source\repos\week4\week4\bin\Debug\week4.pdb
+C:\Users\edwin\source\repos\week4\week4\obj\Debug\week4.csproj.AssemblyReference.cache
+C:\Users\edwin\source\repos\week4\week4\obj\Debug\week4.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwin\source\repos\week4\week4\obj\Debug\week4.Form1.resources
+C:\Users\edwin\source\repos\week4\week4\obj\Debug\week4.Properties.Resources.resources
+C:\Users\edwin\source\repos\week4\week4\obj\Debug\week4.csproj.GenerateResource.cache
+C:\Users\edwin\source\repos\week4\week4\obj\Debug\week4.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\week4\week4\obj\Debug\week4.exe
+C:\Users\edwin\source\repos\week4\week4\obj\Debug\week4.pdb
