@@ -1,0 +1,11 @@
+C:\Users\edwin\source\repos\Week4_ListBoxComboBox\Week4_ListBoxComboBox\bin\Debug\Week4_ListBoxComboBox.exe.config
+C:\Users\edwin\source\repos\Week4_ListBoxComboBox\Week4_ListBoxComboBox\bin\Debug\Week4_ListBoxComboBox.exe
+C:\Users\edwin\source\repos\Week4_ListBoxComboBox\Week4_ListBoxComboBox\bin\Debug\Week4_ListBoxComboBox.pdb
+C:\Users\edwin\source\repos\Week4_ListBoxComboBox\Week4_ListBoxComboBox\obj\Debug\Week4_ListBoxComboBox.csproj.AssemblyReference.cache
+C:\Users\edwin\source\repos\Week4_ListBoxComboBox\Week4_ListBoxComboBox\obj\Debug\Week4_ListBoxComboBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwin\source\repos\Week4_ListBoxComboBox\Week4_ListBoxComboBox\obj\Debug\Week4_ListBoxComboBox.Form1.resources
+C:\Users\edwin\source\repos\Week4_ListBoxComboBox\Week4_ListBoxComboBox\obj\Debug\Week4_ListBoxComboBox.Properties.Resources.resources
+C:\Users\edwin\source\repos\Week4_ListBoxComboBox\Week4_ListBoxComboBox\obj\Debug\Week4_ListBoxComboBox.csproj.GenerateResource.cache
+C:\Users\edwin\source\repos\Week4_ListBoxComboBox\Week4_ListBoxComboBox\obj\Debug\Week4_ListBoxComboBox.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\Week4_ListBoxComboBox\Week4_ListBoxComboBox\obj\Debug\Week4_ListBoxComboBox.exe
+C:\Users\edwin\source\repos\Week4_ListBoxComboBox\Week4_ListBoxComboBox\obj\Debug\Week4_ListBoxComboBox.pdb
